@@ -14,14 +14,42 @@ The goal of NeuroSpace is to create a platform tailored specifically for neurodi
 
 - User profiles
 - A fully functioning forum section with live updates 🤞🏼
-- A calender with events in your area that are sensory friendly.
 - Articles and other resources
 
-### What tools, frameworks, libraries, APIs, modules and/or other resources (whatever is specific to your track, and your language) will you use to create this MVP? List them all here. Be specific
+### What tools, frameworks, libraries, APIs, modules and/or other resources (whatever is specific to your track, and your language) will you use to create this MVP? List them all here. Be specific:
 
+#### Front End:
+
+- React
+- TypeScript
+- Tailwind CSS
+- React Router
+- React Icons
+
+#### Back End(Python):
+
+- Django
+- Django Channels (for real-time events)
+- PyMongo
+
+#### Or(C#):
+
+- ASP.NET Core
+- MongoDB.Driver
 
 ### If you finish developing the minimum viable product (MVP) with time to spare, what will you work on next? Describe these features here: Be specific.
 
+- A calender with events in your area that are sensory friendly. I think I would like to find a web scraper or API that can gather this info based on users location or desired location
+
+- Interactive Educational Content maybe games to play to help people learn social ques or how to regulate emotions (Link up with Brianca 🙋🏽‍♀️)
+
+- Make it also a mobile app
+
 ### What additional tools, frameworks, libraries, APIs, or other resources will these additional features require?
 
+- WebSocket for real time messaging figure out a websocket library for C# like Django Channel
+
+
 ### Is there anything else you'd like your instructor to know?
+
+I keep feeling as if I bit off more than I can chew. But other than that I think its all sorted
