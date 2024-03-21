@@ -18,6 +18,6 @@
   - [YOUTUBE VIDEO](https://youtu.be/OlO8IfpuKzs?si=OPWxRgZueV6szYrf)
   - [Live DashBoard](https://www.youtube.com/watch?v=jsxFEONN_yo)
 
-### 7:00 AM - 8: 30 AM
+### 7:00 AM - 9:2-AM
 
 - [Live DashBoard continued](https://www.youtube.com/watch?v=jsxFEONN_yo)
