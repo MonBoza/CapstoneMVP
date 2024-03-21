@@ -16,3 +16,4 @@
 
 - Code along with a youtube video for Python and Django Channels
   - [YOUTUBE VIDEO](https://youtu.be/OlO8IfpuKzs?si=OPWxRgZueV6szYrf)
+  - [Live DashBoard](https://www.youtube.com/watch?v=jsxFEONN_yo)
