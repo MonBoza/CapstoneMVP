@@ -12,8 +12,12 @@
 
 ## Thursday March 21, 2024
 
-### 5:45 AM - 6:45 AM
+### 5:45 AM - 7:00 AM
 
 - Code along with a youtube video for Python and Django Channels
   - [YOUTUBE VIDEO](https://youtu.be/OlO8IfpuKzs?si=OPWxRgZueV6szYrf)
   - [Live DashBoard](https://www.youtube.com/watch?v=jsxFEONN_yo)
+
+### 7:00 AM - 8: 30 AM
+
+- [Live DashBoard continued](https://www.youtube.com/watch?v=jsxFEONN_yo)
