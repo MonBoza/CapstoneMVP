@@ -18,6 +18,12 @@
   - [YOUTUBE VIDEO](https://youtu.be/OlO8IfpuKzs?si=OPWxRgZueV6szYrf)
   - [Live DashBoard](https://www.youtube.com/watch?v=jsxFEONN_yo)
 
-### 7:00 AM - 9:2-AM
+### 7:00 AM - 9:25-AM
 
 - [Live DashBoard continued](https://www.youtube.com/watch?v=jsxFEONN_yo)
+
+## Friday March 22, 2024
+
+### 11:15 AM - 1:00 PM
+
+- [creating a virtual ENV](https://www.mongodb.com/languages/python)
