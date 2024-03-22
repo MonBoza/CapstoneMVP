@@ -24,6 +24,7 @@
 
 ## Friday March 22, 2024
 
-### 11:15 AM - 1:00 PM
+### 11:15 AM - 12:30 PM
 
 - [creating a virtual ENV](https://www.mongodb.com/languages/python)
+- very unsuccessful going to try and find a different resource
