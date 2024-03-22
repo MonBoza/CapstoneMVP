@@ -28,3 +28,4 @@
 
 - [creating a virtual ENV](https://www.mongodb.com/languages/python)
 - very unsuccessful going to try and find a different resource
+- I think I figured out the error and per usual it was syntax
