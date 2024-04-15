@@ -12,3 +12,4 @@
 ### 5:00 - 6:45
 
 - work on internship cover letters and emails
+- I have one more cover letter to write tomorrow morning I will put together emails and send them out 😃 and continue working on my capstone!
