@@ -7,7 +7,7 @@
 - Build project directory and repository
   - using JavaScript
   - creating a Logo
-  - creating backend logic
+  - creating backend environment
 
 ### 5:00 - 6:45
 
