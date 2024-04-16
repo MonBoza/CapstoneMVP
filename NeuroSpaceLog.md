@@ -20,6 +20,11 @@
 
 - Finish sending Emails for Internships
 
-### 11:20 -
+### 11:20 - 2:00
+
+- update resume on portfolio and Links to deployed projects
 
 - Re watch the tutorial that helps with [Django RestFramework](https://youtu.be/i5JykvxUk_A)
+
+- restructuring the models with [authentication](https://www.youtube.com/watch?v=llrIu4Qsl7c)
+
