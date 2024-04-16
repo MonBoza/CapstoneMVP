@@ -28,6 +28,10 @@
 
 - restructuring the models with [authentication](https://www.youtube.com/watch?v=llrIu4Qsl7c)
 
-### 2:00 PM on
+### 2:00 PM 
 
 - I am working on the backend of my project with django I got auth but I am struggling to create userProfiles
+
+### 5:30
+
+-[Trying this](https://www.youtube.com/watch?v=xjMP0hspNLE)
