@@ -16,4 +16,10 @@
 
 ## April 16, 2024 Tuesday
 
+### 8:45 - 11:20
+
+- Finish sending Emails for Internships
+
+### 11:20 -
+
 - Re watch the tutorial that helps with [Django RestFramework](https://youtu.be/i5JykvxUk_A)
