@@ -44,3 +44,7 @@
 - Pulling info from [this youtube video](https://youtu.be/aNk2CAkHvlE?si=c3iVtePk2zZ3C3vQ) to make a frankenstein backend 🙃
 
 - [documentation](https://www.javatpoint.com/django-image-upload) on image upload images on django
+
+### 10:00
+
+- creating a To Do List to prioritize MVP
