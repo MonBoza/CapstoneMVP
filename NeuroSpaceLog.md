@@ -59,6 +59,7 @@
 - creating UserProfile component wondering if i need it 🥹
 - still changing my mind every hour
 
-### 3:00 PM
+### 3:00 PM - 4:45 PM
 
 - writing cover letter for new internship interview
+- Took forever Maybe over thought that one.
