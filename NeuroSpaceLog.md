@@ -39,17 +39,21 @@
 
 ## April 17, 2024 Wednesday
 
-### 8:30
+### 8:30 - 10:00
 
 - Pulling info from [this youtube video](https://youtu.be/aNk2CAkHvlE?si=c3iVtePk2zZ3C3vQ) to make a frankenstein backend 🙃
 
 - [documentation](https://www.javatpoint.com/django-image-upload) on image upload images on django
 
-### 10:00
+### 10:00 - 11:00
 
 - creating a To Do List to prioritize MVP
 - Crazy chicken scratch [Miro Board](https://miro.com/welcomeonboard/ZDNQdmVBczB5WExHM3FmNThmZVdESEF0WWd3TkpVZGpWUEhlWDZBY3k5cHYyRkFzY0Iwd1RzM0V1SWE5NjcyRnwzNDU4NzY0NTcxNjExNjc3ODAxfDI=?share_link_id=899915525845)
 
-### 11:00 AM
+### 11:00 AM - 1:00PM
 
 - Creating Register Component figuring out how to communicate with front end using axios
+
+### 1:00 PM
+
+- creating UserProfile component wondering if i need it 🥹
