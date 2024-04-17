@@ -54,6 +54,7 @@
 
 - Creating Register Component figuring out how to communicate with front end using axios
 
-### 1:00 PM
+### 1:00 PM 2:30(lunch)
 
 - creating UserProfile component wondering if i need it 🥹
+- still changing my mind every hour
