@@ -36,3 +36,11 @@
 
 - [Trying this](https://www.youtube.com/watch?v=xjMP0hspNLE)
 - very unsuccessful day will start over tomorrow 🥲
+
+## April 17, 2024 Wednesday
+
+### 8:30
+
+- Pulling info from [this youtube video](https://youtu.be/aNk2CAkHvlE?si=c3iVtePk2zZ3C3vQ) to make a frankenstein backend 🙃
+
+- [documentation](https://www.javatpoint.com/django-image-upload) on image upload images on django
