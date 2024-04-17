@@ -25,12 +25,14 @@ The goal of NeuroSpace is to create a platform tailored specifically for neurodi
 - Tailwind CSS
 - React Router
 - React Icons
+- Axios
 
 #### Back End(Python):
 
 - Django
+- Django restframework
 - Django Channels (for real-time events)
-- PyMongo
+- SQLite
 
 #### Or(C#):
 

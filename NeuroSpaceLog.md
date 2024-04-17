@@ -48,3 +48,5 @@
 ### 10:00
 
 - creating a To Do List to prioritize MVP
+- Crazy chicken scratch [Miro Board](https://miro.com/welcomeonboard/ZDNQdmVBczB5WExHM3FmNThmZVdESEF0WWd3TkpVZGpWUEhlWDZBY3k5cHYyRkFzY0Iwd1RzM0V1SWE5NjcyRnwzNDU4NzY0NTcxNjExNjc3ODAxfDI=?share_link_id=899915525845)
+
