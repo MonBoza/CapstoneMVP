@@ -80,6 +80,10 @@
 
 - Working on displaying User profile? I don't know Im starting to get confused 👀
 
-### 11:30
+### 11:30 - 12:00
 
 - cohort scrum
+
+### 12:00 -
+
+- working on same user profile bug
