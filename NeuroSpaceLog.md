@@ -76,6 +76,10 @@
 - Work on register refactor 🤞🏼
   - We did it!
 
-### 10:00 -
+### 10:00 - 11:30
 
 - Working on displaying User profile? I don't know Im starting to get confused 👀
+
+### 11:30
+
+- cohort scrum
