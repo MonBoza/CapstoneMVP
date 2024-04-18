@@ -71,6 +71,11 @@
 
 ## April 18, 2024
 
-### 8:30
+### 8:30 - 10:00 AM
 
 - Work on register refactor 🤞🏼
+  - We did it!
+
+### 10:00 -
+
+- Working on displaying User profile? I don't know Im starting to get confused 👀
