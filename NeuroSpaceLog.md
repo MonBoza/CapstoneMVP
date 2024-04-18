@@ -63,3 +63,14 @@
 
 - writing cover letter for new internship interview
 - Took forever Maybe over thought that one.
+
+### 4:45 - 6:45
+
+- Refactor register component to automatically create user profile
+  - I wasn't too successful at this got frustrated and didn't commit 🫠
+
+## April 18, 2024
+
+### 8:30
+
+- Work on register refactor 🤞🏼
