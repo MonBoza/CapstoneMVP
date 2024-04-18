@@ -84,6 +84,23 @@
 
 - cohort scrum
 
-### 12:00 -
+### 12:00 - 1:15
 
 - working on same user profile bug
+
+### 1:15 - 1:30
+
+- PDP meeting
+
+### 1:30 - 2:30
+
+- debugging UserProfile to no end
+
+### 2:30 - 3:00
+
+- Lunch 
+
+### 3:00 - 5:30
+
+- Going to try referencing the youtube video from earlier 
+  - / Debugging UserProfile 🐞🐛 🥲
