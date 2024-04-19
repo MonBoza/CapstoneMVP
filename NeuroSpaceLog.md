@@ -117,7 +117,12 @@
 - Start on Forum component then come back to user Profile Pic
   - back on userprofile I cant seem to pass username as a prop 🥺
 
+### 10:30 - 3:00
 
-### 10:30 -
+- Picture still doesn't work but I have signin Signout and Register all functioning
 
-- Picture still doesnt work but I have signin Signout and Register all functioning 
+- I have Register / signIn / SignOut / UserProfile all functioning need work styling but going to work on forum next
+
+### 3:00 -
+
+- Working on keeping the page signed in and building the forum form then going to create forum list a tags when you find something interesting it will take you to /forumList/id which will be its own pages to comment like and update and delete (in my head at least) 🤡
