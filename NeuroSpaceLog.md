@@ -123,6 +123,8 @@
 
 - I have Register / signIn / SignOut / UserProfile all functioning need work styling but going to work on forum next
 
-### 3:00 -
+### 3:00 - 4:18
 
 - Working on keeping the page signed in and building the forum form then going to create forum list a tags when you find something interesting it will take you to /forumList/id which will be its own pages to comment like and update and delete (in my head at least) 🤡
+
+- taking a break 
