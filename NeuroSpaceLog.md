@@ -104,3 +104,14 @@
 
 - Going to try referencing the youtube video from earlier 
   - / Debugging UserProfile 🐞🐛 🥲
+
+### 5:30 - 6:45
+
+- still debugging but I feel like Im going in circles
+  - closer I think I cant seem to get the photo to display
+
+## April 19, 2024
+
+### 8:30 -
+
+- Start on Forum component then come back to user Profile Pic
