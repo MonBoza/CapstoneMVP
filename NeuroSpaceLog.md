@@ -112,6 +112,7 @@
 
 ## April 19, 2024
 
-### 8:30 -
+### 8:30 - 10:30
 
 - Start on Forum component then come back to user Profile Pic
+  - back on userprofile I cant seem to pass username as a prop 🥺
