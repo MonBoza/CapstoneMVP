@@ -127,4 +127,9 @@
 
 - Working on keeping the page signed in and building the forum form then going to create forum list a tags when you find something interesting it will take you to /forumList/id which will be its own pages to comment like and update and delete (in my head at least) 🤡
 
-- taking a break 
+- taking a break
+
+### 4:18 - 7:00
+
+- I am stuck on forum back end. It just wont work
+- cant seem to pass the test.rest endpoint for forum. 
