@@ -133,3 +133,10 @@
 
 - I am stuck on forum back end. It just wont work
 - cant seem to pass the test.rest endpoint for forum. 
+
+
+## April 21, 2024
+
+### 9:00 
+
+- had to delete migrations and try again forum model most be off a bit
