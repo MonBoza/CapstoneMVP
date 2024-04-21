@@ -137,6 +137,11 @@
 
 ## April 21, 2024
 
-### 9:00 
+### 9:00 - 1:00 PM
 
 - had to delete migrations and try again forum model most be off a bit
+
+- Register stopped working starting over
+1:00
+
+- redoing the back end  🥺
