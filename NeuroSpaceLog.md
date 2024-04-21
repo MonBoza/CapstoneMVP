@@ -149,3 +149,9 @@
 ### 1:00 - 3:45
 
 - decided to rework my back end and I got the forum to post from the front end but it looks weird and need to be refactored. 🥹
+
+### 3:45 - 6:00
+
+- Working on getting the back end to target a single entry [this](http://127.0.0.1:8000/forum/5/) should return entry 5 and it returns ALL of the forum list 🫠
+
+- work on README for a distraction and styling header and logo
