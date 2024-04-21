@@ -145,3 +145,7 @@
 1:00
 
 - redoing the back end  🥺
+
+### 1:00 - 3:45
+
+- decided to rework my back end and I got the forum to post from the front end but it looks weird and need to be refactored. 🥹
