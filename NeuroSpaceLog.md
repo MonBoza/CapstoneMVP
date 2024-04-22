@@ -173,7 +173,16 @@
 
 - Interview
 
-
 ### 12:30 - 1:30
 
-- interview chat 🥹
+- post interview chat 🥹
+
+### 1:30 - 2:00
+
+- tried to work on styling until lunch
+
+### 3:00 - 6:45
+
+- attempt pulling form by id from end point 🫠
+
+- worked on styling and updating logo size and it took longer than anticipated I realized I have no idea how I want the UX flow to look 
