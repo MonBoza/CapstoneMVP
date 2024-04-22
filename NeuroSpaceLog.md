@@ -163,8 +163,17 @@
 - Worked on styling to get an idea of how I wont the UX flow to look
   - It didnt help🙃🤣
 
-### 10:00 -
+### 10:00 - 11:30
 
 - Focusing on getting the forum to display the individual threads by ID which I thought would be pretty easy but it is not 
 
 - having a comment reply on each thread will be my next task 🫠
+
+### 11:30 - 12:30
+
+- Interview
+
+
+### 12:30 - 1:30
+
+- interview chat 🥹
