@@ -155,3 +155,16 @@
 - Working on getting the back end to target a single entry [this](http://127.0.0.1:8000/forum/5/) should return entry 5 and it returns ALL of the forum list 🫠
 
 - work on README for a distraction and styling header and logo
+
+## April 22, 2024
+
+### 8:30 - 10:00
+
+- Worked on styling to get an idea of how I wont the UX flow to look
+  - It didnt help🙃🤣
+
+### 10:00 -
+
+- Focusing on getting the forum to display the individual threads by ID which I thought would be pretty easy but it is not 
+
+- having a comment reply on each thread will be my next task 🫠
