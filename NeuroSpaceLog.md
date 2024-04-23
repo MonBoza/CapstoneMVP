@@ -217,6 +217,8 @@
 - Chat about interview (for 30 minutes)
   - working on styling again because it looks like a bunch of different people who didn't discus the design just winged it. (it was me I didn't discus it with me)
 
+- got distracted and started trying to make comment work. I do know its an issue of of state but I cant figure it out yet.
+
 ## 6:00 - 6:45
 
-- got distracted and started trying to make comment work. I do know its an issue of of state but I cant figure it out yet.
+- now I will work on styling
