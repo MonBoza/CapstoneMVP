@@ -186,3 +186,10 @@
 - attempt pulling form by id from end point 🫠
 
 - worked on styling and updating logo size and it took longer than anticipated I realized I have no idea how I want the UX flow to look 
+
+
+## April 23, 2024
+
+### 9:00 - 10:00
+
+- got forum detail to display now working on the comments but got distracted figuring out the flow of it all 🙃
