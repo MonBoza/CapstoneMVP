@@ -194,6 +194,8 @@
 
 - got forum detail to display now working on the comments but got distracted figuring out the flow of it all 🙃
 
-### 10:00 - 
+### 10:00 - 1:45
 
-- got the comments to display just have to work on making it look like something and adding a comment to a forum thread I dont know what im doing 
+- got the comments to display just have to work on making it look like something and adding a comment to a forum thread I dont know what im doing
+
+- cant get comments to work 🥹
