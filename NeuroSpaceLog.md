@@ -203,3 +203,15 @@
 ### 1:45-2:45
 
 - Lunch
+
+### 2: 45 - 3:15
+
+- prepare for the Simbco interview
+
+### 3:30 - 4:00 
+
+- Interview
+
+### 4:00
+
+- 
