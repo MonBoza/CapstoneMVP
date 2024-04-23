@@ -212,6 +212,8 @@
 
 - Interview
 
-### 4:00
+### 4:00 -
 
-- 
+- Chat about interview (for 30 minutes)
+  - working on styling again because it looks like a bunch of different people who didn't discus the design just winged it. (it was me I didn't discus it with me) 
+  
