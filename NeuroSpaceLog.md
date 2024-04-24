@@ -223,9 +223,20 @@
 
 - now I will work on styling
 
-
 ## April 24, 2023
 
-### 9:00 - 10:30 
+### 9:00 - 10:30
 
 - Forgot to commit and log but I have been trying to access state through my comment component
+
+### 10:30 - 12:30
+
+- I DID IT!
+  - I got forum to having comment capabilities on a single thread. when logged in I think
+
+- I have to finally decide how I want it to look 😳
+
+
+### 12:30 -
+
+- going to test if I actually did it or not 🙃
