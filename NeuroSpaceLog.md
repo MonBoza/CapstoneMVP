@@ -245,3 +245,19 @@
 ### 2:00 - 3:00
 
 - I did in fact do it time for lunch 😀
+
+### 3:00 - 4:00
+
+- focus on styling
+
+### 4:00 - 5:00
+- Signed Pic Interview
+
+### 5:00 - 5:45
+
+- continue styling (its cute)
+
+### 5:45 - 6:45
+
+- meeting with jasmine
+  - chats about tomorrow
