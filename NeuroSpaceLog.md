@@ -236,7 +236,12 @@
 
 - I have to finally decide how I want it to look 😳
 
+### 12:30 -  2:00
 
-### 12:30 -
+- focusing on styling and and refactoring the components
 
 - going to test if I actually did it or not 🙃
+
+### 2:00 - 3:00
+
+- I did in fact do it time for lunch 😀
