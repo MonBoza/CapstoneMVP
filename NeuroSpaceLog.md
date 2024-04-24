@@ -222,3 +222,10 @@
 ## 6:00 - 6:45
 
 - now I will work on styling
+
+
+## April 24, 2023
+
+### 9:00 - 10:30 
+
+- Forgot to commit and log but I have been trying to access state through my comment component
