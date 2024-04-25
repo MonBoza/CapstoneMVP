@@ -264,10 +264,11 @@
 
 ## April 25, 2024
 
-### 8:30 - 
+### 8:30 - 10:35
 
 - figure out what I broke on userprofile 🥺
   - I fixed it now to figure out how to change the comment
 
 - I broke more stuff got too excited about displaying a picture I didn't realize its the wrong picture.
 
+- Plane landing soon
