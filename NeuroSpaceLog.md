@@ -261,3 +261,13 @@
 
 - meeting with jasmine
   - chats about tomorrow
+
+## April 25, 2024
+
+### 8:30 - 
+
+- figure out what I broke on userprofile 🥺
+  - I fixed it now to figure out how to change the comment
+
+- I broke more stuff got too excited about displaying a picture I didn't realize its the wrong picture.
+
