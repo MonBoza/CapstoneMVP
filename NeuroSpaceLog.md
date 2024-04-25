@@ -272,3 +272,11 @@
 - I broke more stuff got too excited about displaying a picture I didn't realize its the wrong picture.
 
 - Plane landing soon
+
+### 10:35 - 1:00
+
+- travel
+
+### 1:00 - 3:00
+
+- in Person working ... and 
