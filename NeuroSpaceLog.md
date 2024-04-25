@@ -198,6 +198,10 @@
 
 - got the comments to display just have to work on making it look like something and adding a comment to a forum thread I dont know what im doing
 
+### 1:45 - 4:00
+
+- Stuck on forum bug
+
 - cant get comments to work 🥹
 
 ### 1:45-2:45
@@ -208,7 +212,7 @@
 
 - prepare for the Simbco interview
 
-### 3:30 - 4:00 
+### 3:30 - 4:00
 
 - Interview
 
@@ -251,6 +255,7 @@
 - focus on styling
 
 ### 4:00 - 5:00
+
 - Signed Pic Interview
 
 ### 5:00 - 5:45
@@ -279,4 +284,8 @@
 
 ### 1:00 - 3:00
 
-- in Person working ... and 
+- in Person working ...
+
+### 4:00 - 4:45
+
+- debugging comment pics
