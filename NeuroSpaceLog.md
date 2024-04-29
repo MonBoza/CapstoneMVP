@@ -298,8 +298,16 @@
 
 ## April 29, 2024
 
-### 9:30 - 
+### 9:30 - 12:45
 
 - debugging backend I think I accidentally altered my models and now I can access user data from comment post
 
 - I think I fixed it but I added an "about" section.
+
+### 12:45 - 4:00
+
+- continue working on forum and styling a bit better
+- Created an about component.
+- Reseeding the database
+- broke user profile again.
+  - working on finding the profile that worked in github 🥹
