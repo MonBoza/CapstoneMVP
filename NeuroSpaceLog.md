@@ -301,3 +301,5 @@
 ### 9:30 - 
 
 - debugging backend I think I accidentally altered my models and now I can access user data from comment post
+
+- I think I fixed it but I added an "about" section.
