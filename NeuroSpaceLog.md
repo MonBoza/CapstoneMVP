@@ -289,3 +289,15 @@
 ### 4:00 - 4:45
 
 - debugging comment pics
+
+## April 26, 2024 Friday
+
+### 8:00 - 4:45
+
+- In person working
+
+## April 29, 2024
+
+### 9:30 - 
+
+- debugging backend I think I accidentally altered my models and now I can access user data from comment post
