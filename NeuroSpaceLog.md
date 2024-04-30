@@ -335,6 +335,9 @@
 
 - Lunch break
 
-## 2:15 - 
+## 2:15 - 4:00
 
 - working on adding another component trying to figure which one makes more sense with allotted time.
+
+- added a search component
+  - needs debugging.
