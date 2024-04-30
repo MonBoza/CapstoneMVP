@@ -311,3 +311,7 @@
 - Reseeding the database
 - broke user profile again.
   - working on finding the profile that worked in github 🥹
+
+## 4:00 - 6:45
+
+- I managed to break everything and fix it and then break it again in the last 2.5hrs 🥹
