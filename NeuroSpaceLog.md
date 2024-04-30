@@ -331,6 +331,10 @@
   - I did not add like to posts but I did add logo to the homepage
 - looking up how to deploy the backend.
 
-### 1:45 -
+### 1:45 - 2:15
 
 - Lunch break
+
+## 2:15 - 
+
+- working on adding another component trying to figure which one makes more sense with allotted time.
