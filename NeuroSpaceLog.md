@@ -315,3 +315,9 @@
 ## 4:00 - 6:45
 
 - I managed to break everything and fix it and then break it again in the last 2.5hrs 🥹
+
+## April 30, 2024
+
+### 8:30 -
+
+- Figure out why its not hashing my password on register
