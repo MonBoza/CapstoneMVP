@@ -323,10 +323,14 @@
 - Figure out why its not hashing my password on register
   - Figured it out had to update serializer 
 
-### 10:30 - 1:30
+### 10:30 - 1:45
 
 - Trying to add an edit Profile Component. 
   - add like posts eventually  🙃
 - fix something break something repeat.
   - I did not add like to posts but I did add logo to the homepage
 - looking up how to deploy the backend.
+
+### 1:45 -
+
+- Lunch break
