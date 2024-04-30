@@ -318,6 +318,12 @@
 
 ## April 30, 2024
 
-### 8:30 -
+### 8:30 - 10:30
 
 - Figure out why its not hashing my password on register
+  - Figured it out had to update serializer 
+
+### 10:30 -
+
+- Trying to add an edit Profile Component. 
+  - add like posts eventually  🙃
