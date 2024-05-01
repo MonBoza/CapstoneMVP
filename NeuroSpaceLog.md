@@ -353,4 +353,8 @@
 
 - work on deploying 
 
-- doesn't seem to load having issues with the backend
+- doesn't seem to load having issues with the backen
+
+### 11:00 - 1
+
+- working on some styling and refactoring userprofile component
