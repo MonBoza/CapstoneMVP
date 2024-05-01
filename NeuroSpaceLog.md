@@ -346,3 +346,9 @@
 
 - trying to add a component that allows you to view others profiles?
   - Kinda of lost
+
+## May 1, 2024
+
+### 9:00 -
+
+- work on deploying 
