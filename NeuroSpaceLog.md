@@ -349,6 +349,8 @@
 
 ## May 1, 2024
 
-### 9:00 -
+### 9:00 - 11:00
 
 - work on deploying 
+
+- doesn't seem to load having issues with the backend
