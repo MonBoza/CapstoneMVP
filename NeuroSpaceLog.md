@@ -341,3 +341,8 @@
 
 - added a search component
   - needs debugging.
+
+### 4:30 - 6:45
+
+- trying to add a component that allows you to view others profiles?
+  - Kinda of lost
