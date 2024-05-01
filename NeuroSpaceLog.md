@@ -355,6 +355,19 @@
 
 - doesn't seem to load having issues with the backen
 
-### 11:00 - 1
+### 11:00 - 1:30
 
 - working on some styling and refactoring userprofile component
+
+### 1:30 - 2:00 
+
+- Focus on README
+
+### 2:00 - 2:30
+
+- LUNCH
+
+### 2:30 - 
+
+- Build a component Diagram to add to README
+  - Check with stretch goals to see if any are attainable
