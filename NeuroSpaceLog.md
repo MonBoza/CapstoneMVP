@@ -271,7 +271,7 @@
 
 ### 8:30 - 10:35
 
-- figure out what I broke on userprofile 🥺
+- figure out what I broke on User Profile 🥺
   - I fixed it now to figure out how to change the comment
 
 - I broke more stuff got too excited about displaying a picture I didn't realize its the wrong picture.
@@ -321,7 +321,7 @@
 ### 8:30 - 10:30
 
 - Figure out why its not hashing my password on register
-  - Figured it out had to update serializer 
+  - Figured it out had to update serializer
 
 ### 10:30 - 1:45
 
@@ -367,7 +367,11 @@
 
 - LUNCH
 
-### 2:30 - 
+### 2:30 -  5:00
 
 - Build a component Diagram to add to README
   - Check with stretch goals to see if any are attainable
+
+### 5:00 - 6:45
+
+- responded to emails  for internship and applied for jobs 
