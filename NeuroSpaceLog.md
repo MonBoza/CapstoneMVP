@@ -374,4 +374,11 @@
 
 ### 5:00 - 6:45
 
-- responded to emails  for internship and applied for jobs 
+- responded to emails  for internship and applied for jobs
+
+
+## May 2, 2024
+
+### 9:30 - 
+
+-  Apply for jobs I have two so far
