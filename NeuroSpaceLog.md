@@ -353,11 +353,11 @@
 
 - work on deploying 
 
-- doesn't seem to load having issues with the backen
+- doesn't seem to load having issues with the backend
 
 ### 11:00 - 1:30
 
-- working on some styling and refactoring userprofile component
+- working on some styling and refactoring user profile component
 
 ### 1:30 - 2:00 
 
@@ -379,6 +379,25 @@
 
 ## May 2, 2024
 
-### 9:30 - 
+### 9:30 - 11:30
 
 -  Apply for jobs I have two so far
+
+### 11:30 - 2:00
+
+- 1:00 - 1:30 meeting for internship
+
+- final touches and trying to figure out how to deploy.
+
+### 2:00 - 3:00
+
+- Lunch
+
+### 3:00 - 5:00
+
+- update some final touches to header and styling
+
+### 5:00 - 6:45
+
+- prepare to present my capstone
+  - update my captsone gallery
