@@ -400,4 +400,4 @@
 ### 5:00 - 6:45
 
 - prepare to present my capstone
-  - update my captsone gallery
+  - update my capstone gallery
